@@ -1,0 +1,5 @@
+# .gitignore
+# Archivo crucial para evitar subir secretos a GitHub
+.streamlit/
+__pycache__/
+*.pyc
